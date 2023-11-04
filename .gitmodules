@@ -1,3 +1,6 @@
 [submodule "todo"]
 	path = todo
 	url = https://github.com/Abdelhamid1213/simple_todo
+[submodule "simple_calculator"]
+	path = simple_calculator
+	url = https://github.com/Abdelhamid1213/simple_calculator
