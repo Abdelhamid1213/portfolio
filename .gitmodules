@@ -6,4 +6,4 @@
 	url = https://github.com/Abdelhamid1213/simple_calculator
 [submodule "quotes"]
 	path = quotes
-	url = https://github.com/Abdelhamid1213/simple-quotes.git
+	url = https://github.com/Abdelhamid1213/simple-quotes
