@@ -4,3 +4,6 @@
 [submodule "calculator"]
 	path = calculator
 	url = https://github.com/Abdelhamid1213/simple_calculator
+[submodule "quotes"]
+	path = quotes
+	url = https://github.com/Abdelhamid1213/simple-quotes.git
